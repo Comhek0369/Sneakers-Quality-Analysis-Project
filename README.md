@@ -8,9 +8,9 @@ A data-driven project to evaluate the quality of sneaker products using damage r
 
 ```
 ├── sneakers.csv                 # Raw sneaker quality and inventory data
-├── Python Notebook.ipynb        # Exploratory analysis & insights in Python
+├── Python Notebook.ipynb        # Exploratory analysis & insights in Python(not uploaded it here)
 ├── Sneakers.pbix                # Power BI dashboard for interactive visualizations
-├── Sneaker_Quality_Analysis_Strategy_May2025.pptx  # Strategic summary presentation
+├── Sneaker Retail Market Analysis.pdf  # Strategic summary presentation
 └── README.md                    # Project documentation
 ```
 
@@ -65,14 +65,14 @@ To identify sneaker products with significant quality issues by analyzing **dama
 1. Clone the repository.
 2. Open the Jupyter notebook (`Python Notebook.ipynb`) to run the analysis.
 3. Explore the dashboard in Power BI using `Sneakers.pbix`.
-4. Review `Sneaker_Quality_Analysis_Strategy_May2025.pptx` for summarized findings.
+4. Review `Sneaker Retail Market Analysis.pdf` for summarized findings.
 
 ---
 
 ## 📎 Data Source
 
 `sneakers.csv` – Contains product name, sneaker grade, damage counts, and inventory data.
-
+- <a href= "https://github.com/Comhek0369/Data-Analyst-Dashboard-project-1/blob/main/dashboard%20project%201.png">Dataset</a>
 ---
 
 ## 📄 License
