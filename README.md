@@ -71,8 +71,7 @@ To identify sneaker products with significant quality issues by analyzing **dama
 
 ## 📎 Data Source
 
-`sneakers.csv` – Contains product name, sneaker grade, damage counts, and inventory data.
-- <a href= "https://github.com/Comhek0369/Data-Analyst-Dashboard-project-1/blob/main/dashboard%20project%201.png">Dataset</a>
+- <a href= "https://github.com/Comhek0369/Sneakers-Quality-Analysis-Project/commit/be5a924053b9e6285849dfccde81d1dce64b62a3">`sneakers.csv`</a> – Contains product name, sneaker grade, damage counts, and inventory data.
 ---
 
 ## 📄 License
