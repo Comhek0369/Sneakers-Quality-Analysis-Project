@@ -77,3 +77,5 @@ To identify sneaker products with significant quality issues by analyzing **dama
 ## 📄 License
 
 MIT License
+
+Author : Comhek aka Harsh
